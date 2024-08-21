@@ -1,6 +1,8 @@
-module github.com/tmc/langgraphgo
+module github.com/aurelien-dm/langgraphgo
 
-go 1.22
+go 1.22.0
+
+toolchain go1.22.5
 
 require github.com/tmc/langchaingo v0.1.9
 
