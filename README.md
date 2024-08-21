@@ -1,3 +1,6 @@
+> **ATTENTION** : This repository is a fork of github.com/AugustDev/langgraphgo which is a fork of github.com/tmc/langgraphgo. Nothing is added to this fork and i'm not the author. This fork only exist to allow us to use the AddConditionalEdge function added by AugustDev as a PR (not merged) on github.com/tmc/langgraphgo (https://github.com/tmc/langgraphgo/pull/2) with a different package name to avoid any conflict in the management of go dependencies.
+
+
 # 🦜️🔗 LangGraphGo
 
 [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/tmc/langgraphgo)
